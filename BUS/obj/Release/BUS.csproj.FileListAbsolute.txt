@@ -1,0 +1,11 @@
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\BUS.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\BUS.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\DAO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\DAO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Release\DTO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Release\BUS.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Release\BUS.pdb

@@ -1,0 +1,6 @@
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\bin\Release\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\bin\Release\DTO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\obj\Release\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DTO\obj\Release\DTO.pdb

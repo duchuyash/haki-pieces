@@ -1,0 +1,137 @@
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.pdb
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.dll
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\BUS.pdb
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.dll
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.dll
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\DAO.pdb
+E:\Chính thức\HaKi-Piece\BUS\bin\Debug\DTO.pdb
+E:\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.dll
+E:\Chính thức\HaKi-Piece\BUS\obj\Debug\BUS.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\BUS.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\BUS.pdb
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\DAO.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\DTO.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\DAO.pdb
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\DTO.pdb
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\HaKi-Piece\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\Do an\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Do an\HaKi-Piece\BUS\obj\Debug\BUS.dll
+D:\HK4\Do an\HaKi-Piece\BUS\obj\Debug\BUS.pdb
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\EntityFramework.dll
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\DAO.dll.config
+D:\HK4\Do an\HaKi-Piece\BUS\bin\Debug\EntityFramework.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\BUS.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\BUS.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DAO.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DTO.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\EntityFramework.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DAO.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DAO.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DTO.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\EntityFramework.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\obj\Debug\BUS.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\obj\Debug\BUS.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\BUS.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.Licensing.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.Shared.Base.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\DTO.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Syncfusion.Shared.Base.xml
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\EnvDTE.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\stdole.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\Microsoft.MSXML.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

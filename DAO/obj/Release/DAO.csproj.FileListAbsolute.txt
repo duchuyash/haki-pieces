@@ -1,0 +1,9 @@
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\bin\Release\DAO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\bin\Release\DAO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\bin\Release\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\bin\Release\DTO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\obj\Release\DAO.csproj.CopyComplete
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\obj\Release\DAO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\DAO\obj\Release\DAO.pdb

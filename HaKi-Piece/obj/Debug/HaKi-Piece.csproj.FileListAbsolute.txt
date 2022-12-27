@@ -1,0 +1,915 @@
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe.config
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.Properties.Resources.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.GenerateResource.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CopyComplete
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Animator.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe.licenses
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LoadApp.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_DangNhap.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Message.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapHoaDon.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSanPham.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapPhieuHen.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThanhToan.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_PTThanhToan.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTThanhVien.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Main.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemPhieuHen.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemHoaDon.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSuKien.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Images.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSuKien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe.config
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Images.v19.2.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.pdb
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.AssemblyReference.cache
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTThanhVien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLSuKien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSuKien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemHoaDon.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemPhieuHen.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSuKien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemThanhVien.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_ngay.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_trong.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_PTThanhToan.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapHoaDon.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapPhieuHen.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Message.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_DangNhap.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LoadApp.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Main.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThanhToan.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSanPham.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.Properties.Resources.resources
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.GenerateResource.cache
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe.licenses
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CopyComplete
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.pdb
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe.config
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.pdb
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.pdb
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.pdb
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.pdb
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.AssemblyReference.cache
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTThanhVien.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLSuKien.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSuKien.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemHoaDon.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemPhieuHen.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSuKien.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemThanhVien.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_ngay.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_trong.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_PTThanhToan.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapHoaDon.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapPhieuHen.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Message.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_DangNhap.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LoadApp.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Main.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThanhToan.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSanPham.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.Properties.Resources.resources
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.GenerateResource.cache
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe.licenses
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CoreCompileInputs.cache
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CopyComplete
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe
+E:\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTSanPham.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Calendar.NET.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLNhanVien.resources
+D:\HK4\Do an\Winform\Chính thức\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemNV.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe.config
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Images.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.pdb
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.pdb
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.pdb
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.AssemblyReference.cache
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemNV.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTSanPham.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTThanhVien.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLNhanVien.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSuKien.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemHoaDon.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemPhieuHen.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSuKien.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.uc_PTThanhToan.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapHoaDon.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapPhieuHen.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_DangNhap.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LoadApp.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Main.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThanhToan.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSanPham.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.Properties.Resources.resources
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.GenerateResource.cache
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe.licenses
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CopyComplete
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\EntityFramework.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK4\Do an\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe.config
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\GumroadLicensing.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Guna.UI2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Images.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Data.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Persistent.Base.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraScheduler.v19.2.Extensions.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DAO.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Persistent.Base.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.AssemblyReference.cache
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemNV.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTSanPham.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTThanhVien.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLNhanVien.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSuKien.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemHoaDon.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemPhieuHen.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSuKien.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapHoaDon.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LapPhieuHen.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_DangNhap.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_LoadApp.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_Main.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThanhToan.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_XemSanPham.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.Properties.Resources.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.GenerateResource.cache
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe.licenses
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CoreCompileInputs.cache
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.csproj.CopyComplete
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.exe
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi-Piece.pdb
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTPhieuHen.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.Licensing.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.Shared.Base.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\BUS.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\DTO.dll.config
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Syncfusion.Shared.Base.xml
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_CTHoaDon.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_QLKhoHang.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_ThemSP.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_HTPhieuHen.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_PhieuHen.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_BaoCaoThongKe.resources
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\RdlCompile.cache
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\RdlCompile.compiled
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\EnvDTE.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\stdole.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\Microsoft.MSXML.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK4\Do an\Winform\HaKi-Piece\HaKi-Piece\obj\Debug\HaKi_Piece.frm_InHoaDon.resources
